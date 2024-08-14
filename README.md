@@ -7,8 +7,6 @@ Fault Detection of Induction Motor Using Machine Learning specifically refers to
 3. **Automated Detection**: Machine learning enables automated and continuous monitoring of induction motors. By integrating predictive models into monitoring systems, early signs of faults can be identified before they escalate into significant issues, thereby minimizing downtime and maintenance costs.
 
 4. **Enhanced Reliability**: Using machine learning for fault detection enhances the reliability and efficiency of maintenance processes. It allows for proactive maintenance scheduling based on real-time insights, improving overall operational efficiency and reducing the risk of unexpected failures.
-
-
 ## Authors
 - Muhammad Huzaifa  
   School of Electrical Engineering and Computer Sciences, SEECS  
